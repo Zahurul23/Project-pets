@@ -20,7 +20,7 @@ Resources:
           sudo yum install httpd -y
           sudo yum -get install wget 
           cd /var/www/html
-          wget https://raw.githubusercontent.com/Zahurul23/Project-pets/master/projects/Project-101-kittens-carousel-static-website-ec2/static-web/Template.yaml
+          wget https://raw.githubusercontent.com/Zahurul23/Project-pets/master/projects/Project-101-kittens-carousel-static-website-ec2/static-web/index.html
           wget https://raw.githubusercontent.com/Zahurul23/Project-pets/master/projects/Project-101-kittens-carousel-static-website-ec2/static-web/cat0.jpg
           wget https://raw.githubusercontent.com/Zahurul23/Project-pets/master/projects/Project-101-kittens-carousel-static-website-ec2/static-web/cat1.jpg
           wget https://raw.githubusercontent.com/Zahurul23/Project-pets/master/projects/Project-101-kittens-carousel-static-website-ec2/static-web/cat2.jpg
